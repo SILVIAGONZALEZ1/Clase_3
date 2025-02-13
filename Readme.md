@@ -1,13 +1,13 @@
 # 🛒 FuturoMendoza
-Bienvenido a FuturoMendoza, tu tienda en línea de confianza para [categoría de productos]. Nos especializamos en ofrecer productos de alta calidad con envíos rápidos y atención al cliente excepcional.
+Bienvenido a FuturoMendoza, tu tienda en línea de confianza para insumos de tecnología. Nos especializamos en ofrecer productos de alta calidad con envíos rápidos y atención al cliente excepcional.
 
 ## 🚀 Características
 
-- 🛍️ Gran variedad de productos.
-- 🚚 Envíos rápidos y seguros.
-- 💳 Múltiples métodos de pago.
-- 📞 Atención al cliente 24/7.
-- 🔒 Seguridad y privacidad garantizada.
+- 🛍️ Gran variedad de productos de alta calidad.
+- 🚚 Envíos rápidos y seguros a todo el país.
+- 💳 Múltiples métodos de pago con bancos y billeteras virtuales.
+- 📞 Atención al cliente 24/7 a través de nuestro chat.
+- 🔒 Seguridad y privacidad garantizada con los mejores profesionales.
 
 ## 📦 Cómo Comprar
 
@@ -18,10 +18,10 @@ Bienvenido a FuturoMendoza, tu tienda en línea de confianza para [categoría de
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Frontend**: React.js / Vue.js / Angular.
-- **Backend**: Node.js / Django / Ruby on Rails.
-- **Base de Datos**: MongoDB / PostgreSQL / MySQL.
-- **Infraestructura**: AWS / Firebase / DigitalOcean.
+- **Frontend**: HTML / CSS / Javascript.
+- **Backend**: Node.js.
+- **Base de Datos**: SQL.
+- **Infraestructura**: GitHub Pages.
 
 ## 🤝 Contribuir
 
